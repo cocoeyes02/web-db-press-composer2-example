@@ -20,7 +20,7 @@
 $ docker-compose run composer {コマンド}
 ```
 
-例えばcomposer installを実行したい場合は、以下の用に実行してください。
+例えばcomposer installを実行したい場合は、以下のように実行してください。
 
 ```
 $ docker-compose run composer composer install
